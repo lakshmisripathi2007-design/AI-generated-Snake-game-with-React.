@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "A high-octane Snake game set in a dark neon cyberpunk world, featuring a built-in AI-generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
